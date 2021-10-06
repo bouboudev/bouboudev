@@ -15,7 +15,6 @@
 [<img align="left" alt="bouboudev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bouzidkrita | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
 <br />
 
 ### Languages and Tools:
@@ -24,6 +23,8 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
+
+[<img align="left" alt="Java" width="20px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png" />][website]
 
 [<img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][website]
 
@@ -39,35 +40,20 @@
 
 [<img align="left" alt="illustrator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Adobe_Illustrator_CS3_icon.png" />][website]
 
-
 [<img align="left" alt="FIGMA" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/langfr-800px-Figma-logo.svg.png" />][website]
 <br />
 <br />
 
 ---
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouboudev&layout=compact)](https://github.com/bouboudev/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bouboudev)](https://github.com/bouboudev/github-readme-stats)
-
-
-
-
-
-
-
-
 
 ---
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bouboudev.bouboudev)
 
-
-
-
 [website]: https://bouzid-krita.com
 [twitter]: https://twitter.com/Boubou_dev
 [linkedin]: https://www.linkedin.com/in/bouzidkrita/
-
