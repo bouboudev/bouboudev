@@ -47,12 +47,23 @@
 ---
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouboudev&layout=compact)](https://github.com/bouboudev/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bouboudev)](https://github.com/bouboudev/github-readme-stats)
+
+
+
+
+
+
+
+
+
 ---
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bouboudev)](https://github.com/bouboudev)
 
 
 
-</details>
 
 [website]: https://bouzid-krita.com
 [twitter]: https://twitter.com/Boubou_dev
