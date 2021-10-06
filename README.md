@@ -5,7 +5,7 @@
 
 ## I'm a Full stack Developer based in Paris !
 
-- 🤝🏻 I’m looking to collaborate with other content creators
+- 🤝🏻 I’m looking to collaborate with other developper
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love street workout and street lifting
 
