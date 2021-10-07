@@ -2,9 +2,6 @@
 # Hello world, I'm Bouzid - aka [BoubouDev][website] <img align="left" alt="Visual Studio Code" width="26px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" />
 
 
-[![Website](https://img.shields.io/website?label=bouzid-krita.com&style=for-the-badge&url=https%3A%2F%2Fbouzid-krita.com)](https://bouzid-krita.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/boubou_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fboubou_dev&screen_name=boubou_dev)
-[![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=Follow%20%40bouzidkrita&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbouzidkrita%2F)](https://www.linkedin.com/in/bouzidkrita/)
 
 <img alt="Night Coding" width="400px" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="right"/>
 
@@ -16,12 +13,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="bouzid-krita.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="bouboudev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bouzidkrita | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Website](https://img.shields.io/website?label=bouzid-krita.com&style=for-the-badge&url=https%3A%2F%2Fbouzid-krita.com)](https://bouzid-krita.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/boubou_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fboubou_dev&screen_name=boubou_dev)
+[![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=Follow%20%40bouzidkrita&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbouzidkrita%2F)](https://www.linkedin.com/in/bouzidkrita/)
 
 <br />
-
 
 ### Languages and Tools:
 
@@ -59,9 +55,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouboudev&layout=compact)](https://github.com/bouboudev/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bouboudev)](https://github.com/bouboudev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouboudev&layout=compact)](https://github.com/bouboudev/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bouboudev)](https://github.com/bouboudev/github-readme-stats)
 
 ---
 
