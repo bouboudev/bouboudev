@@ -6,6 +6,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/boubou_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fboubou_dev&screen_name=boubou_dev)
 
 
+[![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=Follow%20%40bouzidkrita&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbouzidkrita%2F)](https://www.linkedin.com/in/bouzidkrita/)
+
+
 <img alt="Night Coding" width="400px" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="right"/>
 
 ## I'm a Full stack Developer based in Paris ! <img  alt="Visual Studio Code" width="40px" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
