@@ -23,8 +23,6 @@
 <br />
 
 
-
-
 ### Languages and Tools:
 
 
@@ -43,11 +41,8 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-
-
-
-
-
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)&nbsp;
 
 
 <br />
