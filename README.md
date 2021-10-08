@@ -53,7 +53,9 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouboudev&layout=compact)](https://github.com/bouboudev/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bouboudev)](https://github.com/bouboudev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouboudev&layout=compact&theme=radical)](https://github.com/bouboudev/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bouboudev&theme=radical)](https://github.com/bouboudev/github-readme-stats)
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bouboudev&theme=radical">
+
 
 ---
 
