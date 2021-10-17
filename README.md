@@ -58,6 +58,13 @@
 
 
 <!--START_SECTION:waka-->
+```text
+Vue.js       11 hrs 33 mins  █████████████▒░░░░░░░░░░░   52.69 % 
+JavaScript   6 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+JSON         2 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Markdown     52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Pug          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+```
 <!--END_SECTION:waka-->
 
 
