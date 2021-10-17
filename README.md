@@ -57,6 +57,10 @@
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bouboudev&theme=radical">
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ---
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bouboudev.bouboudev)
