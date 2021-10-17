@@ -1,7 +1,4 @@
-
 # Hello world, I'm Bouzid - aka [BoubouDev][website] <img align="left" alt="Visual Studio Code" width="26px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" />
-
-
 
 <img alt="Night Coding" width="400px" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="right"/>
 
@@ -21,7 +18,6 @@
 
 ### Languages and Tools:
 
-
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -40,8 +36,8 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)&nbsp;
 
-
 ### Softwares:
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
@@ -50,16 +46,15 @@
 ![Fig;q](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)
 <br />
 
-
 ---
+
+### Coding Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouboudev&layout=compact&theme=radical)](https://github.com/bouboudev/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bouboudev&theme=radical)](https://github.com/bouboudev/github-readme-stats)
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bouboudev&theme=radical">
 
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 
 ---
 
