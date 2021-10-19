@@ -12,7 +12,7 @@
 
 
 
-[![Website](https://img.shields.io/badge/My%20Website%20-bouzid--krita-&?style=for-the-badge&logo=google&color=black)](https://codepen.io/bouboudev)
+[![Website](https://img.shields.io/badge/My%20Website%20-bouzid--krita-&?style=for-the-badge&logo=google&color=black)](https://bouzid-krita.com)
 [![Website](https://img.shields.io/badge/Follow%20%40BOUBOUDEV--&?style=for-the-badge&logo=codepen)](https://codepen.io/bouboudev)
 
 
