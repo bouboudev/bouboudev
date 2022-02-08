@@ -5,7 +5,7 @@
 ## I'm a Full stack Developer based in Paris ! <img  alt="Visual Studio Code" width="40px" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
 
 - 🤝🏻 I’m looking to collaborate with other developper
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love street workout and street lifting
 
 ### Connect with me:
