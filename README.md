@@ -4,7 +4,7 @@
 
 ## I'm a Front end Developer based in Paris ! <img  alt="Visual Studio Code" width="40px" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
 
-- 🤝🏻 I’m looking to collaborate with other developper
+- 🤝🏻 I’m looking for a collaboration with other developpers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love street workout and street lifting
 
