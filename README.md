@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" width="400px" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="right"/>
 
-## I'm a Front end Developer based in Paris ! <img  alt="Visual Studio Code" width="40px" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />![dummy](https://user-images.githubusercontent.com/81152624/209818862-44a077b4-df92-4bff-828f-7c380b7ff412.png)
+## I'm a Front end Developer based in Paris !
 
 
 - 🤝🏻 I’m looking for a collaboration with other developpers
