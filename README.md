@@ -31,8 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jade         36 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄   96.99 %
-JavaScript   1 min           ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
