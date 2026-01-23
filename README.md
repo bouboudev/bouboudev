@@ -1,6 +1,6 @@
 # Hello world, I'm Bouzid - aka [BoubouDev][website]
 
-## I'm a Full stack  Developer based in Paris !
+## I'm a Full stack  Developer based in Paris & Lille !
 
 - 🤝🏻 I’m looking for a collaboration with other developpers
 
