@@ -48,14 +48,6 @@ I enjoy building clean, scalable interfaces and modern web applications with a s
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic\&logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic\&logo=figma)
 
----
-
-### Featured project
-
-Design System – Vue 3
-Reusable design system built with Vue 3 and Storybook, focused on scalability and UI consistency.
-
-Demo: [https://design-system-vue.netlify.app/](https://design-system-vue.netlify.app/)
 
 ---
 
