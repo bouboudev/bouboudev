@@ -101,8 +101,11 @@ This project explores reusable UI components, visual consistency and scalable fr
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bouboudev&show_icons=true&theme=tokyonight&hide_border=true" alt="Bouzid's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouboudev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=bouboudev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=bouboudev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
