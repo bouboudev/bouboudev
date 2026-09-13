@@ -98,17 +98,6 @@ This project explores reusable UI components, visual consistency and scalable fr
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=bouboudev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=bouboudev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
 
 ## 🤝 Connect with me
 
@@ -134,4 +123,3 @@ Feel free to reach out if you want to build something useful, elegant and reliab
 
 ---
 
-> “Good code is not only code that works — it is code that can evolve.”
